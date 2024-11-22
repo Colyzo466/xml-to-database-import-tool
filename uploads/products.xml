@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Wireless Mouse</name>
+        <price>19.99</price>
+        <quantity>150</quantity>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Gaming Keyboard</name>
+        <price>49.99</price>
+        <quantity>75</quantity>
+    </product>
+    <product>
+        <id>3</id>
+        <name>External Hard Drive</name>
+        <price>89.50</price>
+        <quantity>60</quantity>
+    </product>
+    <product>
+        <id>4</id>
+        <name>USB-C Hub</name>
+        <price>29.99</price>
+        <quantity>200</quantity>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Portable Charger</name>
+        <price>24.99</price>
+        <quantity>180</quantity>
+    </product>
+</products>
